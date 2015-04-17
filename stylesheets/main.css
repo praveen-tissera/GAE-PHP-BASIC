@@ -1,0 +1,10 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  background-color: #DDDDDD;
+}
+textarea{
+background-color:#00ff00;
+border-radius:5px;
+height:200px;
+width:350px;
+}
